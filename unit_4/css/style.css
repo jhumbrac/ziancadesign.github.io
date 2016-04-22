@@ -1,0 +1,76 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+
+@import url(https://fonts.googleapis.com/css?family=Khula:400,300,600,700);
+@import url(https://fonts.googleapis.com/css?family=Fauna+One);
+
+body {
+	color: #605A5B;
+	font-family: 'Khula', sans-serif;
+	font-weight: 300;
+	font-size: 30px
+	word-spacing: 30px;
+}
+
+nav {
+	float: left;
+	margin-top: 65px;
+	margin-left: 20px;
+	display: inline block;
+	font-size: 20px;
+}
+
+nav a {
+	margin-right: 20px;
+}
+
+h1 {
+	font-family: 'Fauna One', serif;
+	margin-top: 10px;
+	font-size: 32px;
+	font-weight: 300;
+	text-align: center;
+}
+
+footer {
+	margin-top: 20px;
+	font-size: 20px;
+	display: inline-block;
+	float: left;
+}
+
+footer a {
+	margin-right: 20px;
+}
+
+.logo {
+	float:left;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+.services a {
+	margin-top: 30px;
+	float:left;
+	font-size: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 30%;
+	text-align: center;
+    }
+
+.flats {
+	width: 100%;
+	margin-top: 30px;
+}
+
+a:link {
+    color: #605A5B;
+}
+
+a:visited {
+    color: #605A5B;
+}
+
+a:hover {
+    color: rgb(185,224,247);
+}

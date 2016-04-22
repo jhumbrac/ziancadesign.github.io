@@ -1,0 +1,140 @@
+@import url(https://fonts.googleapis.com/css?family=Khula:400,300,600,700);
+@import url(https://fonts.googleapis.com/css?family=Fauna+One);
+
+* {margin:0;padding:0;box-sizing:border-box;}
+
+body {
+	color: #605A5B;
+	font-family: 'Khula', sans-serif;
+	font-weight: 300;
+	font-size: 1.5em;
+}
+
+nav {
+	font-size: .75em;
+	padding-top: 5%;
+	padding-left: 2%;
+    padding: 2%;
+    width: 100%;
+}
+
+nav a {
+	margin-right: 1%;
+	padding-left: 1%;
+}
+
+h1 {
+	font-family: 'Fauna One', serif;
+	margin-top: 1%;
+	font-size: 1.2em;
+	font-weight: 300;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+}
+
+footer {
+	font-size: .75em;
+    clear:both;
+    padding: .5%;
+
+}
+
+footer a {
+	margin-left: 1%;
+}
+
+.logo {
+	width: 10em;
+	float:left;
+	margin-top:1%;
+	padding-left: 1%;
+}
+
+.designservices {
+    padding: 1%;
+}
+
+#services {
+    padding: .1%;
+}
+
+#services a {
+	float:left;
+	font-size: .75em;
+	margin: 1%;
+	width: 31.33%;
+	text-align: center;
+}
+
+a:link {
+    color:rgba(0,0,0,0.9)
+}
+
+a:visited {
+    color:rgba(0,0,0,0.9)
+}
+
+a:hover {
+    color: rgb(185,224,247);
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+#biancapic {
+    float:left;
+    width: 31.33%;
+    margin: 1%;
+}
+#biancabio {
+    float:left;
+    width: 64%;
+    padding-top: 6%;
+    margin-top: 1%;
+    margin: 1%;
+    padding-right: 1%;
+}
+.portfolio a{
+    margin-top:10%;
+    float:left;
+    font-size: .75em;
+    margin: 1%;
+    width: 31.33%;
+    margin-left:1%;
+}
+.patternshop a{
+    margin-top:10%;
+    float:left;
+    font-size: .75em;
+    margin: 1%;
+    width: 31.33%;
+    margin-left:1%;
+}
+ #peplumsample {
+    margin-top:10%;
+    float:left;
+    font-size: .75em;
+    margin: 1%;
+    width: 31.33%;
+    margin-left:1%;
+}
+ #customweddingdress {
+    margin-top:10%;
+    float:left;
+    font-size: .75em;
+    margin: 1%;
+    width: 31.33%;
+    margin-left:1%;
+}
+
+

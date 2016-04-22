@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Khula:400,300,600,700);
+@import url(https://fonts.googleapis.com/css?family=Fauna+One);
+
+* {margin:0;padding:0;box-sizing:border-box;}
+
+body {
+	color: #605A5B;
+	font-family: 'Khula', sans-serif;
+	font-weight: 300;
+	font-size: 30px;
+}
+
+nav {
+	font-size: 18px;
+	padding-top: 5%;
+	padding-left: 2%;
+	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 30px;
+    width: 100%;
+}
+
+nav a {
+	margin-right: 20px;
+	padding-left: 1%;
+}
+
+h1 {
+	font-family: 'Fauna One', serif;
+	margin-top: 10px;
+	font-size: 32px;
+	font-weight: 300;
+	text-align: center;
+	background-color: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+img {
+	width: 100%;
+}
+
+footer {
+	font-size: 20px;
+	background-color: #FF957E;
+	border: 1px black solid;
+    clear:both;
+    padding:20px;
+
+}
+
+footer a {
+	margin-left: 10px;
+}
+
+.logo {
+	width: 250px;
+	float:left;
+	margin-top:1%;
+	padding-left: 1%;
+}
+
+.designservices {
+	background-color: #FFC675;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#services {
+	background-color: #E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#services a {
+	float:left;
+	font-size: 20px;
+	margin: 1%;
+	width: 31.33%;
+	text-align: center;
+}
+
+a:link {
+    color:rgba(0,0,0,0.9)
+}
+
+a:visited {
+    color:rgba(0,0,0,0.9)
+}
+
+a:hover {
+    color: rgb(185,224,247);
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+

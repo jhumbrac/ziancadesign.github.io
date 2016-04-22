@@ -1,0 +1,22 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,300,700);
+
+body {
+	color: #605A5B;
+	font-family: 'Quicksand', sans-serif; 
+	font-weight: 300;
+	size: 10px;
+}
+
+#toplinks {
+	font-size: 16px;
+    	word-spacing: 50px;
+    	padding-top: 20px;
+    	padding-left:20px;
+}
+
+footer {
+	font-size: 16px;
+    	word-spacing: 50px;
+}
